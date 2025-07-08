@@ -6,6 +6,7 @@ export default function Home() {
       <p>プロキシ経由で /lp/ パスから正常にアクセスされています</p>
       <div style={{ marginTop: '20px', padding: '15px', backgroundColor: '#e6f3ff', borderRadius: '5px' }}>
         <p>このページは異なるリポジトリから管理され、同一ドメインで表示されています。</p>
+        <p>メインページへは<a href="/">こちら</a>から遷移できます。</p>
       </div>
     </div>
   )
